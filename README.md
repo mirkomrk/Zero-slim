@@ -1,6 +1,8 @@
 # ZERO SLIM
 
 
+This project was created to lighten the handling of the Voron 0, using an aluminum profile 1515 x2, with this type of processing the weight of the extruded aluminum 15x15 is reduced by half without compromising the resistance to torsion and bending.
+By decreasing the weight it is possible to obtain better speeds and accelerations and fewer problems are encountered, especially in decelerations.
 
 [![OVAL.png](https://i.postimg.cc/MKvsvPyx/OVAL.png)](https://postimg.cc/QHZgzq4n)
 
