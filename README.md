@@ -10,6 +10,11 @@ By decreasing the weight it is possible to obtain better speeds and acceleration
 [![TRI.png](https://i.postimg.cc/8PpS9SQ4/TRI.png)](https://postimg.cc/py6453d5)
 
 
+[![SUPPORTO-ASSE-X-MOD.png](https://i.postimg.cc/Mpn00f8L/SUPPORTO-ASSE-X-MOD.png)](https://postimg.cc/ZWhy4RnP)
+
+THE SUPPORTS HAVE BEEN MODIFIED TO INSERT NUTS AND PUT THE THROUGH SCREWS
+
+
 this photo highlights the difference in weight between the original extruded profile and the milled aluminum profile
 
 [![contronto-orie-mod-oval.png](https://i.postimg.cc/2SmjGkCQ/contronto-orie-mod-oval.png)](https://postimg.cc/JG6W4WD0)
