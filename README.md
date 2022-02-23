@@ -1,16 +1,19 @@
 # ZERO SLIM
 
 
+
 [![OVAL.png](https://i.postimg.cc/MKvsvPyx/OVAL.png)](https://postimg.cc/QHZgzq4n)
 
 
 [![TRI.png](https://i.postimg.cc/8PpS9SQ4/TRI.png)](https://postimg.cc/py6453d5)
 
-### picture
 
 ![](IMG/displays.png)
 ![](IMG/Orbiter_menu.png)
 ![](IMG/home_ele_sch.png)
+
+The ZERO SLIME is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
+PayPal: 
 
 # License 
 ### [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
