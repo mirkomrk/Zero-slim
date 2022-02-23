@@ -4,18 +4,20 @@
 This project was created to lighten the handling of the Voron 0, using an aluminum profile 1515 x2, with this type of processing the weight of the extruded aluminum 15x15 is reduced by half without compromising the resistance to torsion and bending.
 By decreasing the weight it is possible to obtain better speeds and accelerations and fewer problems are encountered, especially in decelerations.
 
+OVAL BORE V1
+
 [![OVAL.png](https://i.postimg.cc/MKvsvPyx/OVAL.png)](https://postimg.cc/QHZgzq4n)
 
+TRI BORE V1
 
 [![TRI.png](https://i.postimg.cc/8PpS9SQ4/TRI.png)](https://postimg.cc/py6453d5)
 
 
-[![SUPPORTO-ASSE-X-MOD.png](https://i.postimg.cc/Mpn00f8L/SUPPORTO-ASSE-X-MOD.png)](https://postimg.cc/ZWhy4RnP)
-
 THE SUPPORTS HAVE BEEN MODIFIED TO INSERT NUTS AND PUT THE THROUGH SCREWS
 
+[![SUPPORTO-ASSE-X-MOD.png](https://i.postimg.cc/Mpn00f8L/SUPPORTO-ASSE-X-MOD.png)](https://postimg.cc/ZWhy4RnP)
 
-this photo highlights the difference in weight between the original extruded profile and the milled aluminum profile
+This photo highlights the difference in weight between the original extruded profile and the milled aluminum profile
 
 [![contronto-orie-mod-oval.png](https://i.postimg.cc/2SmjGkCQ/contronto-orie-mod-oval.png)](https://postimg.cc/JG6W4WD0)
 
