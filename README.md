@@ -14,7 +14,7 @@ By decreasing the weight it is possible to obtain better speeds and acceleration
 ![](IMG/Orbiter_menu.png)
 ![](IMG/home_ele_sch.png)
 
-The ZERO SLIME is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
+The ZERO SLIM is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
 PayPal: 
 
 # License 
