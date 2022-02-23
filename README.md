@@ -10,12 +10,17 @@ By decreasing the weight it is possible to obtain better speeds and acceleration
 [![TRI.png](https://i.postimg.cc/8PpS9SQ4/TRI.png)](https://postimg.cc/py6453d5)
 
 
+this photo highlights the difference in weight between the original extruded profile and the milled aluminum profile
+
+[![contronto-orie-mod-oval.png](https://i.postimg.cc/2SmjGkCQ/contronto-orie-mod-oval.png)](https://postimg.cc/JG6W4WD0)
+
+
 ![](IMG/displays.png)
 ![](IMG/Orbiter_menu.png)
 ![](IMG/home_ele_sch.png)
 
 The ZERO SLIM is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
-PayPal: 
+PayPal:
 
 # License 
 ### [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
