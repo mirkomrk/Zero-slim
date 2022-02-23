@@ -1,8 +1,10 @@
 # ZERO SLIM
 
-### LIST
-- first 
-- second
+
+[![OVAL.png](https://i.postimg.cc/MKvsvPyx/OVAL.png)](https://postimg.cc/QHZgzq4n)
+
+
+[![TRI.png](https://i.postimg.cc/8PpS9SQ4/TRI.png)](https://postimg.cc/py6453d5)
 
 ### picture
 
