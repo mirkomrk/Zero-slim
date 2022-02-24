@@ -27,7 +27,7 @@ This photo highlights the difference in weight between the original extruded pro
 ![](IMG/home_ele_sch.png)
 
 The ZERO SLIM is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
-PayPal:paypal.me/adelaidecat
+PayPal: paypal.me/adelaidecat
 
 # License 
 ### [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
