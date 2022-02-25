@@ -6,20 +6,20 @@ By decreasing the weight it is possible to obtain better speeds and acceleration
 
 OVAL BORE V1
 
-[![OVAL.png](https://i.postimg.cc/MKvsvPyx/OVAL.png)](https://postimg.cc/QHZgzq4n)
+![OVAL.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/OVAL.png)
 
 TRI BORE V1
 
-[![TRI.png](https://i.postimg.cc/8PpS9SQ4/TRI.png)](https://postimg.cc/py6453d5)
+![TRI.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/TRI.png)
 
 
 THE SUPPORTS HAVE BEEN MODIFIED TO INSERT NUTS AND PUT THE THROUGH SCREWS
 
-[![SUPPORTO-ASSE-X-MOD.png](https://i.postimg.cc/Mpn00f8L/SUPPORTO-ASSE-X-MOD.png)](https://postimg.cc/ZWhy4RnP)
+![SUPPORTO-ASSE-X-MOD.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/SUPPORTO%20ASSE%20X%20MOD.png)
 
 This photo highlights the difference in weight between the original extruded profile and the milled aluminum profile
 
-[![contronto-orie-mod-oval.png](https://i.postimg.cc/2SmjGkCQ/contronto-orie-mod-oval.png)](https://postimg.cc/JG6W4WD0)
+![contronto-orie-mod-oval.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/ORI%20VS%20MOD.png)
 
 
 ![](IMG/displays.png)
