@@ -22,6 +22,8 @@ This photo highlights the difference in weight between the original extruded pro
 ![contronto-orie-mod-oval.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/ORI%20VS%20MOD.png)
 
 
+![newalutri.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/alu%20tri%20.jpg)
+
 ![](IMG/displays.png)
 ![](IMG/Orbiter_menu.png)
 ![](IMG/home_ele_sch.png)
