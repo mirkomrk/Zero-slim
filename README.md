@@ -64,7 +64,7 @@ Conclusion
 
 ![](IMG/displays.png)
 ![](IMG/Orbiter_menu.png)
-![](IMG/home_ele_sch.png)
+
 
 
 ![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/ffa5bd4e-e516-47c6-a531-0d99c328be41)
