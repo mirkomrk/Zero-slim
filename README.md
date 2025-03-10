@@ -21,6 +21,41 @@ This photo highlights the difference in weight between the original extruded pro
 
 ![contronto-orie-mod-oval.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/ORI%20VS%20MOD.png)
 
+![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/cf50b986-9f87-4356-8af7-2b55b20c37f5)
+
+Structural Analysis Report – Torsion and Bending Forces
+1. Safety Factor
+   Minimum: 3.75
+   Maximum: 15 
+   The minimum value of 3.75 indicates a good safety margin under applied loads.
+   The maximum value of 15 suggests that some areas are significantly over-dimensioned relative to the actual stresses.
+2. Stress – Von Mises and Principal Stresses
+   Von Mises Stress: 73.33 MPa max 
+   Represents the equivalent stress, which remains within acceptable limits for most metallic materials.
+   1st Principal Stress (Tensile): 76.11 MPa max
+   3rd Principal Stress (Compressive): -102.7 MPa max 
+   These values indicate how the structure reacts to bending and torsion.
+   The compression stress is higher than the tensile stress, suggesting that certain areas are more stressed under load.
+3. Normal and Shear Stresses
+   Normal Stresses (XX, YY, ZZ): Ranging from -78.81 MPa to 69.34 MPa
+   Shear Stresses (XY, YZ, ZX): Ranging from -28.41 MPa to 26.59 MPa 
+   The shear stresses remain within safe limits, indicating good torsional resistance.
+4. Displacement
+   Total Displacement: 0.01322 mm max 
+   Very low, meaning the structure remains rigid with minimal deformation under load.
+   The maximum displacement in the Z-axis is 0.0132 mm, showing that bending has a minimal effect.
+5. Reaction Forces
+   Maximum reaction force: 5.78 N 
+   The force distribution is consistent with the applied loads.
+6. Strain (Elastic Deformations)
+   Equivalent Strain: 0.001484 max 
+   The material remains well within the elastic limit, meaning no plastic deformations occur.
+Conclusion
+   The structure demonstrates excellent mechanical strength, with a good safety factor.
+   Stress and deformation values are well-contained, confirming the design is solid and well-optimized for the applied loads.
+   Torsion and bending do not cause critical deformations,
+   proving that the modified profile is an effective improvement over the original one.
+
 
 ![newalutri.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/alu%20tri%20.jpg)
 
@@ -31,6 +66,8 @@ This photo highlights the difference in weight between the original extruded pro
 With my new design of the modified X-axis profile for the Voron 0, 
 I have achieved a 65% weight reduction compared to the original 1515 extruded profile.
 This project is also mentioned in a video by the maker 247printing.
+
+![photo_2025-03-10_13-34-12](https://github.com/user-attachments/assets/5e256b2d-46c4-49fc-812a-40037ebcf71d)
 
 https://www.youtube.com/watch?v=Yzr6elGFR44&t=0
 
