@@ -23,6 +23,9 @@ This photo highlights the difference in weight between the original extruded pro
 
 ![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/cf50b986-9f87-4356-8af7-2b55b20c37f5)
 
+![photo_2025-03-10_13-34-12](https://github.com/user-attachments/assets/5e256b2d-46c4-49fc-812a-40037ebcf71d)
+
+
 Structural Analysis Report – Torsion and Bending Forces
 1. Safety Factor
    Minimum: 3.75
@@ -63,11 +66,13 @@ Conclusion
 ![](IMG/Orbiter_menu.png)
 ![](IMG/home_ele_sch.png)
 
+![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/41ef7a97-7604-4c20-a216-10d07587deb8)
+
 With my new design of the modified X-axis profile for the Voron 0, 
 I have achieved a 65% weight reduction compared to the original 1515 extruded profile.
 This project is also mentioned in a video by the maker 247printing.
 
-![photo_2025-03-10_13-34-12](https://github.com/user-attachments/assets/5e256b2d-46c4-49fc-812a-40037ebcf71d)
+
 
 https://www.youtube.com/watch?v=Yzr6elGFR44&t=0
 
