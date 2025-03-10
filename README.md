@@ -66,10 +66,12 @@ Conclusion
 ![](IMG/Orbiter_menu.png)
 ![](IMG/home_ele_sch.png)
 
-![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/41ef7a97-7604-4c20-a216-10d07587deb8)
+
+![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/ffa5bd4e-e516-47c6-a531-0d99c328be41)
+
 
 With my new design of the modified X-axis profile for the Voron 0, 
-I have achieved a 65% weight reduction compared to the original 1515 extruded profile.
+I have achieved a 66% weight reduction compared to the original 1515 extruded profile.
 This project is also mentioned in a video by the maker 247printing.
 
 
