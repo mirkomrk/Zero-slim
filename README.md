@@ -1,8 +1,25 @@
 # ZERO SLIM
 
 
-This project was created to lighten the handling of the Voron 0, using an aluminum profile 1515 x2, with this type of processing the weight of the extruded aluminum 15x15 is reduced by half without compromising the resistance to torsion and bending.
+This project was created to lighten the handling of the Voron 0, using an aluminum profile 1515 x2,
+with this type of processing the weight of the extruded aluminum 15x15 is reduced by half without compromising the resistance to torsion and bending.
 By decreasing the weight it is possible to obtain better speeds and accelerations and fewer problems are encountered, especially in decelerations.
+
+This photo highlights the difference in weight between the original extruded profile and the milled aluminum profile
+
+![contronto-orie-mod-oval.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/ORI%20VS%20MOD.png)
+
+![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/ffa5bd4e-e516-47c6-a531-0d99c328be41)
+
+
+With my new design of the modified X-axis profile for the Voron 0, 
+I have achieved a 66% weight reduction compared to the original 1515 extruded profile.
+This project is also mentioned in a video by the maker 247printing.
+
+
+
+https://www.youtube.com/watch?v=Yzr6elGFR44&t=0
+
 
 OVAL BORE V1
 
@@ -11,16 +28,6 @@ OVAL BORE V1
 TRI BORE V1
 
 ![TRI.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/TRI.png)
-
-
-THE SUPPORTS HAVE BEEN MODIFIED TO INSERT NUTS AND PUT THE THROUGH SCREWS
-
-![SUPPORTO-ASSE-X-MOD.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/SUPPORTO%20ASSE%20X%20MOD.png)
-
-This photo highlights the difference in weight between the original extruded profile and the milled aluminum profile
-
-![contronto-orie-mod-oval.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/ORI%20VS%20MOD.png)
-
 
 
 ![photo_2025-03-10_13-34-12](https://github.com/user-attachments/assets/5e256b2d-46c4-49fc-812a-40037ebcf71d)
@@ -67,20 +74,16 @@ Conclusion
 ![](IMG/home_ele_sch.png)
 
 
-![photo_2025-03-10_13-32-58](https://github.com/user-attachments/assets/ffa5bd4e-e516-47c6-a531-0d99c328be41)
-
-
-With my new design of the modified X-axis profile for the Voron 0, 
-I have achieved a 66% weight reduction compared to the original 1515 extruded profile.
-This project is also mentioned in a video by the maker 247printing.
-
-
-
-https://www.youtube.com/watch?v=Yzr6elGFR44&t=0
 
 
 
 
+
+
+
+THE SUPPORTS HAVE BEEN MODIFIED TO INSERT NUTS AND PUT THE THROUGH SCREWS
+
+![SUPPORTO-ASSE-X-MOD.png](https://github.com/mirkomrk/Zero-slim/blob/ZERO/IMG/SUPPORTO%20ASSE%20X%20MOD.png)
 
 
 
