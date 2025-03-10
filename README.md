@@ -80,6 +80,10 @@ https://www.youtube.com/watch?v=Yzr6elGFR44&t=0
 
 
 
+
+
+
+
 The ZERO SLIM is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
 [PayPal](https://www.paypal.me/adelaidecat?locale.x=it_IT)
 
