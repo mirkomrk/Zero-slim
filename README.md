@@ -28,6 +28,14 @@ This photo highlights the difference in weight between the original extruded pro
 ![](IMG/Orbiter_menu.png)
 ![](IMG/home_ele_sch.png)
 
+With my new design of the modified X-axis profile for the Voron 0, 
+I have achieved a 65% weight reduction compared to the original 1515 extruded profile.
+This project is also mentioned in a video by the maker 247printing.
+
+https://www.youtube.com/watch?v=Yzr6elGFR44&t=0
+
+
+
 The ZERO SLIM is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
 [PayPal](https://www.paypal.me/adelaidecat?locale.x=it_IT)
 
